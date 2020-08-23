@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/Chapter7_TangantTextureWorldSpace.shader">
+    <Files>
+      <File FileName="Assets/Shaders/Chapter7_SimpelTexture.shader" Line="24" Column="1" />
+      <File FileName="Assets/Shaders/Chapter7_TangantTexture.shader" Line="28" Column="27" />
+      <File FileName="Assets/Shaders/Chapter7_TangantTextureWorldSpace.shader" Line="42" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

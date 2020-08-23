@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/Chapter6_BlinnPhongLight.shader">
+    <Files>
+      <File FileName="Assets/Shaders/Chapter5_SimpleShader.shader" Line="10" Column="22" />
+      <File FileName="Assets/Shaders/Chapter6_DiffuseVertexLevel.shader" />
+      <File FileName="Assets/Shaders/Chapter6_DiffusePixelLevel.shader" />
+      <File FileName="Assets/Shaders/Chapter6_DiffuseHalfLambert.shader" />
+      <File FileName="Assets/Shaders/Chapter6_SpecularPixelLevel.shader" />
+      <File FileName="Assets/Shaders/Chapter6_BlinnPhongLight.shader" Line="1" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
